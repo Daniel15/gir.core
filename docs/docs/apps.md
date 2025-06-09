@@ -23,3 +23,7 @@ Applications using gir.core. To add a new application to the list [edit this pag
 [Pinta](https://www.pinta-project.com/) is a image editing, drawing and painting application with a simple yet powerful interface.
 
 ![Pinta screenshot](https://github.com/user-attachments/assets/05afe053-1105-4665-b285-6c769a70c1a1)
+
+## WebCamControl
+[WebCamControl](https://github.com/Daniel15/WebCamControl) can control properties of your webcam such as pan, tilt, zoom, etc. 
+You can run it to adjust the camera at the same time as other apps are using it.
